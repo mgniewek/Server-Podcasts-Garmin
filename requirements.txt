@@ -1,4 +1,4 @@
-werkzeug=0.16.0
+werkzeug==0.16.0
 Flask_Threads==0.0.1a0
 requests==2.22.0
 Flask_Caching==1.8.0
